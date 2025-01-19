@@ -14,7 +14,7 @@
   </properties>
   <distributionManagement>
 	<repository>
-		<id>releases<id>
+		<id>releases</id>
 		<url>http://54.173.247.95:8081/repository/maven-releases/</url>
 	</repository>
 	<snapshotRepository>
